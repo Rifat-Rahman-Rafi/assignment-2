@@ -36,14 +36,14 @@ body {
 }
 
 
-.nav-menu ul {
+.ul {
     display: flex;
     justify-content: center;
     margin: 0;
     padding: 10px 0 0 0;
 }
 
-.nav-menu ul li {
+.li {
     list-style: none;
     margin-left: 30px;
     font-weight: 600;
